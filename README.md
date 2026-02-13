@@ -1,16 +1,22 @@
-## Hi there 👋
+## Angelo Miguel
 
-<!--
-**knows01/knows01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Jogos Digitais no Senac, explorando desenvolvimento, design e criação de experiências interativas.
 
-Here are some ideas to get you started:
+Tenho foco em evolução constante, criatividade e construção de base técnica sólida. Atualmente aprofundando conhecimentos em programação e modelagem 3D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- Desenvolvimento de jogos (em formação)
+- Lógica de programação
+- Modelagem 3D (início de trajetória)
+- Criatividade aplicada a sistemas interativos
+
+### Ferramentas
+- Blender
+- Python
+- VS Code
+- Unity
+- Git & GitHub
+
+### Contato
+📩 Email: angelomiguel.tec@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/angelomiguel1
