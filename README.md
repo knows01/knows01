@@ -1,4 +1,4 @@
-## Angelo Miguel!!
+## Angelo Miguel
 
 Estudante de Jogos Digitais no Senac, explorando desenvolvimento, design e criação de experiências interativas.
 
